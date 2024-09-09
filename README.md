@@ -4,3 +4,4 @@ Landing page для компании blizko 2021 (Дизайн + верстка)
 - Bootstrap
 - jquery
 
+Style CSS прописаны не в отдельном файле по запросу заказчика.
